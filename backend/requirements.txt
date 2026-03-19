@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+networkx
+scikit-learn
+requests
+pandas
+pydantic
+python-dotenv
+web3
+beautifulsoup4
